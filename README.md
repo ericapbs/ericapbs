@@ -1,7 +1,5 @@
 ### Olá!! 👋
 
-Um pouco sobre mim:
-
 - 👩‍🎓 Cursando Análise e Desenvolvimento de Sistemas
 - ☕ Aprendendo Java
 - 👩‍💻 Aprendendo HTML/CSS/Javascript
