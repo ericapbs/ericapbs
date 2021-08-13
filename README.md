@@ -1,5 +1,6 @@
-### Olá! Eu sou a Érica 👋
+### Olá!! 👋
 
+Um pouco sobre mim:
 
 - 👩‍🎓 Cursando Análise e Desenvolvimento de Sistemas
 - ☕ Aprendendo Java
@@ -7,9 +8,13 @@
 - 🎓 Formada em Administração
 
  <div>
-  <a href="https://github.com/ericapbs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericapbs&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericapbs&layout=compact&langs_count=16&theme=cobalt"/>
+  
+[![](https://raw.githubusercontent.com/ericapbs/ericapbs/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ericapbs/ericapbs/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/ericapbs/ericapbs/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+
+
+
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Erica-Java" height="40" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
